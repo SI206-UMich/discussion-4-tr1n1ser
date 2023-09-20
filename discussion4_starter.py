@@ -1,3 +1,5 @@
+# name: Trini Sernas
+# date: Sept 20, 2023
 class Rectangle():
     # Create the constructor "__init__" method
     # Arguments: width (an ingeter), height (an integer)
